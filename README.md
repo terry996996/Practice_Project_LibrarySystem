@@ -24,6 +24,7 @@ Step1. 開啟frontend資料夾
 Step2. Terimal 輸入 npm install 
 Step3. Terimal 輸入 npm run dev (啟動vue3專案) 
 Step4. 網址列輸入http://localhost:5173/
+
 Step5. 可順利造訪本網站~
 
 網站介紹: (詳見-----智慧圖書館系統網頁地圖與功能簡要說明文件.pdf)
