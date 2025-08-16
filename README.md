@@ -10,33 +10,33 @@ https://www.youtube.com/watch?v=uakbGfBK1YU
 
 2. 資料庫: 
 
-Step1. 開啟DB資料夾
+      Step1. 開啟DB資料夾
 
-Step2. DB 資料夾中運行schema.sql 的程式 
+      Step2. DB 資料夾中運行schema.sql 的程式 
 
-Step3. DB 資料夾中運行data.sql 的程式 
+      Step3. DB 資料夾中運行data.sql 的程式 
 
-Step4. DB 資料夾中運行procedures.sql 的程式 (USE LibrarySystem; 要先執行) 
+      Step4. DB 資料夾中運行procedures.sql 的程式 (USE LibrarySystem; 要先執行) 
 
 3. 後端:
 
-Step1. 開啟backend資料夾
+      Step1. 開啟backend資料夾
 
-Step2. 到 src/main/resources中，application.properties組態檔內，改掉 SQL 的帳號和密碼 
+      Step2. 到 src/main/resources中，application.properties組態檔內，改掉 SQL 的帳號和密碼 
 
-Step3. 運行 Spring Boot 程式 
+      Step3. 運行 Spring Boot 程式 
 
 4. 前端 
 
-Step1. 開啟frontend資料夾
+      Step1. 開啟frontend資料夾
 
-Step2. Terimal 輸入 npm install 
+      Step2. Terimal 輸入 npm install 
 
-Step3. Terimal 輸入 npm run dev (啟動vue3專案) 
+      Step3. Terimal 輸入 npm run dev (啟動vue3專案) 
 
-Step4. 網址列輸入http://localhost:5173/
+      Step4. 網址列輸入http://localhost:5173/
 
-Step5. 可順利造訪本網站~
+      Step5. 可順利造訪本網站~
 
 🔵 網站介紹: (詳見-----智慧圖書館系統網頁地圖與功能簡要說明文件.pdf)
 
